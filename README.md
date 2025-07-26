@@ -4,9 +4,9 @@ A collection of hands-on deep learning projects focused on robotics applications
 
 ---
 
-## 📁 Project 1: CIFAR-10 CNN Classifier + 3D Reconstruction
+## Project 1: CIFAR-10 CNN Classifier + 3D Reconstruction
 
-### 🔍 Objective
+### Objective
 - Build a CNN from scratch using PyTorch to classify images from CIFAR-10.
 - Improve performance with regularization, batch normalization, and data augmentation.
 - Visualize results using confusion matrices.
