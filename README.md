@@ -29,11 +29,11 @@ A collection of hands-on deep learning projects focused on robotics applications
 | Basic CNN | ~46% |
 | With BatchNorm + Aug | ~48.5% |
 
-📊 Confusion matrix, model checkpoints, and point cloud exports (`.ply`) included.
+Confusion matrix, model checkpoints, and point cloud exports (`.ply`) included.
 
 ---
 
-### 📸 3D Reconstruction Preview
+### 3D Reconstruction Preview
 
 - Used MiDaS to estimate depth
 - Open3D to convert into point cloud
